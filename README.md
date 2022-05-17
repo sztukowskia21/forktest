@@ -5,7 +5,7 @@ Laurka dla Jana Sztukowskiego
  ///   //|\\    \\\
   ///   |||   \\\
     ///     \\\
-      //    \\
+      //   \\
         |||
          |
  </pre>
